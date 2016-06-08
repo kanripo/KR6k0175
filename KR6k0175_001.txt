@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:45:55.378600
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:24
 #+TITLE: 四分律拾毗尼義鈔科
 #+PROPERTY: CBETA_ID X44n0746
 #+PROPERTY: ID KR6k0175
